@@ -1,4 +1,10 @@
+<div align="center">
+
 # OBS MTG Life Tracker Script
+##### Simple Life Tracking With OBS
+
+<img alt="OBS MTG Life Tracker Logo" height="280" src="/assets/obs-mtg-life-counter.png" />
+</div>
 
 ## Overview
 This script allows you to track life totals and commander damage in Magic: The Gathering Commander games using OBS. Life totals and commander damage counters are displayed as text sources in your OBS scene and can be adjusted using hotkeys.
