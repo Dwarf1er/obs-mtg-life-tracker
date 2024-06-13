@@ -9,6 +9,8 @@
 ## Overview
 This script allows you to track life totals and commander damage in Magic: The Gathering Commander games using OBS. Life totals and commander damage counters are displayed as text sources in your OBS scene and can be adjusted using hotkeys.
 
+![Demo GIF](assets/demo.gif)
+
 ## Instructions
 
 ### Step 1: Add Text Sources
