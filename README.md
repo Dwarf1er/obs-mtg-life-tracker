@@ -18,6 +18,8 @@ This script allows you to track life totals and commander damage in Magic: The G
    - `CommanderDamage2`
    - `CommanderDamage3`
 
+![Step 1](assets/step-1.png)
+
 ### Step 2: Add the Script
 1. Open OBS, go to `Tools` -> `Scripts`.
 2. Click on the `+` button to add a new script.
@@ -28,8 +30,10 @@ This script allows you to track life totals and commander damage in Magic: The G
 2. If you used different names for your text sources, update the source names in the script properties.
 3. Set the `Starting Life Total` to your desired initial life total (default is 40).
 
+![Step 3](assets/step-3.png)
+
 ### Step 4: Set Hotkeys
-1. Go to `Settings` -> `Hotkeys`.
+1. Go to `File` --> `Settings` -> `Hotkeys`.
 2. In `Filter` search for `MTG` to list the hotkeys for this script
 3. Assign keys for the following actions:
    - `MTG Increase Life Total` [recommendation: up arrow]
@@ -38,6 +42,8 @@ This script allows you to track life totals and commander damage in Magic: The G
    - `MTG Increase Commander Damage 2` [recommendation: 2]
    - `MTG Increase Commander Damage 3` [recommendation: 3]
    - `MTG Reset All Values` [recommendation: R]
+
+![Step 4](assets/step-4.png)
 
 ### Usage
 - Use the assigned hotkeys to increase/decrease the life total and commander damage counters.
